@@ -4,52 +4,7 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
-  <title>Video Background with Animated Image</title>
-  <style>
-    /* Reset */
-    * {
-      margin: 0;
-      padding: 0;
-      box-sizing: border-box;
-    }
-    html, body {
-      height: 100%;
-      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-      background: black;
-      overflow: hidden;
-      color: white;
-    }
-
-    /* Video background styling */
-    #video-bg {
-      position: fixed;
-      top: 50%;
-      left: 50%;
-      min-width: 100%;
-      min-height: 100%;
-      width: auto;
-      height: auto;
-      z-index: -1;
-      transform: translate(-50%, -50%);
-      object-fit: cover;
-      filter: brightness(0.6);
-    }
-
-    /* Content container styling */
-    .content {
-      position: fixed; /* Fixed to center vertically & horizontally */
-      top: 50%;
-      left: 50%;
-      transform: translate(-50%, -50%);
-      max-width: 90%;
-      padding: 20px 30px;
-      background: rgba(0, 0, 0, 0.45);
-      border-radius: 12px;
-      box-shadow: 0 0 15px rgba(0,0,0,0.7);
-      text-align: center;
-      user-select: none;
-    }
-  </style>
+  
 </head>
 <body>
   <video id="video-bg" autoplay muted loop playsinline preload="auto">
