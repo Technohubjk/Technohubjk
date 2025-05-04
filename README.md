@@ -60,8 +60,8 @@ B.Tech in Electronics And Communication Engineering from *JK Institute of Applie
 
 💡 Passionate about **.NET Development**, Scalable **System Architecture**, Microservices, and **High-Performance Web Applications**.<br>
 🎯 Problem Solver | DSA Enthusiast | Solved Challenges on LeetCode & GFG.<br>
-🏅 Delivered High-Impact .NET Features | Improved System Performance & User Experience  <br>
-⚙️ Advocate of **Test-Driven Development (TDD)** and **CI/CD Automation**
+🏅 Delivered High-Impact .NET Features | Improved System Performance & User Experience. <br>
+⚙️ Advocate of **Test-Driven Development (TDD)** and **CI/CD Automation**.
 
 ---
 
