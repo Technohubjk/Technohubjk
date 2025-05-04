@@ -68,21 +68,22 @@ B.Tech in Electronics And Communication Engineering from *JK Institute of Applie
 ## 💻 Skills & Technologies
 
 ### 🖥️ Frontend
-![React.js](https://img.shields.io/badge/React.js-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![C#](https://img.shields.io/badge/React.js-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Angular](https://img.shields.io/badge/React.js-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
 ### ⚙️ Backend
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![Csharp](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![JAVA](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ### 🛢️ Database & DevOps
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![MS SQL 2019](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 
 ### 🧪 Testing & Agile
@@ -93,20 +94,19 @@ B.Tech in Electronics And Communication Engineering from *JK Institute of Applie
 ---
 
 ## 📜 Experience
-- 💼 **Software Engineer** - Societe Generale (Jan 2024 - Present)
-- 💼 **Software Engineer** - Cisco (Oct 2022 - Oct 2023)
-- 💼 **Software Engineer Trainee** - Cisco (Mar 2022 - Sept 2022)
+- 💼 **Software Engineer** - Junior Software Developer (Dec 2022 - Agu 2024)
+- 💼 **Software Engineer Trainee** - Crescerance (June 2022 - Dec 2022)
 
 ## 🛠️ Projects
-- 🚀 **Flyaway** (Flight Booking Portal)
+- 🚀 **Flyaway** (MIS Management System)
 - 🌟 **Sporty Shoes** (E-commerce App)
-- 🛒 **Full-stack E-commerce App**
+- 🛒 **Full-stack JSLPS(Jhanrkhand State)**
 
 ## 🏆 Achievements & Interests
-- ✅ Qualified GATE 2022 exam in Computer Science.
-- ✅ Achieved a rank of 311 on LeetCode weekly contest out of 27,548 candidates.
-- ✅ Received a Recognition Letter from Cisco for outstanding contributions.
+- ✅ Qualified GATE 2022 exam in ECE.
+- ✅ Solving C# and SQL Challenges on HackerRank | Continuously Improving Problem-Solving Skills.
+- ✅ Received a Recognition Letter from Crescerance and SAMS for outstanding contributions.
 
 ## 👤 Connect With Me
-📫 You can reach me at [yashg7842@gmail.com](mailto:yashg7842@gmail.com). Follow my socials!
+📫 You can reach me at [sosshivam65@gmail.com](mailto:soshivam65@gmail.com). Follow my socials!
 
