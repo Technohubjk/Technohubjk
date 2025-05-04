@@ -16,7 +16,7 @@
     <p dir="auto">
       <animated-image data-catalyst="">
         <a>
-          <img src="https://github.com/yashdesigns/yashdesigns/raw/main/Intro.gif" alt="👋 Hi there! I'm Shiv Kumar" title="👋 Hi there! I'm Shiv Kumar" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
+          <img  alt="👋 Hi there! I'm Shiv Kumar" title="👋 Hi there! I'm Shiv Kumar" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
         </a>
         <span class="AnimatedImagePlayer" data-target="animated-image.player" hidden="">
           <a data-target="animated-image.replacedLink" class="AnimatedImagePlayer-images">
