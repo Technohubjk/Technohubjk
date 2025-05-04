@@ -54,12 +54,13 @@
 
 
 ## ✨ About Me
-Full Stack Developer | 25 years old  
+.NET Developer | Full Stack Explorer | 25 y/o Code Enthusiast
+Loves Microservices, Scalable Systems & Clean Architecture 
 B.Tech in Electronics And Communication Engineering from *JK Institute of Applied Physics and Technology University Of Allahabad*  
 
 💡 Passionate about **.NET Development**, Scalable **System Architecture**, Microservices, and **High-Performance Web Applications**.
-🎯 Problem Solver:DSA problems solved on LeetCode & GFG  
-🏅 Achieved **Rank #311** in LeetCode Weekly Contest (27k+ participants)  
+🎯 Problem Solver | DSA Enthusiast | Solved Challenges on LeetCode & GFG
+🏅 Delivered High-Impact .NET Features | Improved System Performance & User Experience  
 ⚙️ Advocate of **Test-Driven Development (TDD)** and **CI/CD Automation**
 
 ---
