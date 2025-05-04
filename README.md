@@ -5,7 +5,7 @@
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
  
-</head>d
+</head>
 <body>
   <video id="video-bg" autoplay muted loop playsinline preload="auto">
     <source src="https://cdn.pixabay.com/vimeo/346742759/Timelapse%20Earth%20and%20Sky%20Every%20Day%20-%205219.mp4?width=1920&amp;hash=9a09e05a46a76ab414e06e690376d7b87887a72f" type="video/mp4" />
