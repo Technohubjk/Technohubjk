@@ -21,7 +21,7 @@
         <span class="AnimatedImagePlayer" data-target="animated-image.player" hidden="">
           <a data-target="animated-image.replacedLink" class="AnimatedImagePlayer-images" href="https://github.com/yashdesigns/yashdesigns/blob/main" target="_blank">
             <span data-target="animated-image.imageContainer">
-              <img data-target="animated-image.replacedImage" alt="👋 Hi there! I'm Yash" class="AnimatedImagePlayer-animatedImage" src="https://github.com/yashdesigns/yashdesigns/raw/main/Intro.gif" style="display: block; opacity: 1;">
+              <img data-target="animated-image.replacedImage" alt="👋 Hi there! I'm Shiv Kumar" class="AnimatedImagePlayer-animatedImage" src="https://github.com/Technohubjk/Technohubjk" style="display: block; opacity: 1;">
               <canvas class="AnimatedImagePlayer-stillImage" aria-hidden="true" width="426" height="240"></canvas>
             </span>
           </a>
