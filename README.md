@@ -4,11 +4,11 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
-  
-</head>
+ 
+</head>d
 <body>
   <video id="video-bg" autoplay muted loop playsinline preload="auto">
-    <source src="path/to/your/local/video.mp4" type="video/mp4" />
+    <source src="https://cdn.pixabay.com/vimeo/346742759/Timelapse%20Earth%20and%20Sky%20Every%20Day%20-%205219.mp4?width=1920&amp;hash=9a09e05a46a76ab414e06e690376d7b87887a72f" type="video/mp4" />
     Your browser does not support the video tag.
   </video>
 
@@ -16,8 +16,8 @@
     <!-- Animated Image Section -->
     <p dir="auto">
       <animated-image data-catalyst="">
-        <a data-target="animated-image.originalLink">
-          <img src="https://s4.gifyu.com/images/bL6Zr.gif" alt="👋 Hi there! I'm Shiv Kumar" title="👋 Hi there! I'm Shiv Kumar" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
+        <a  data-target="animated-image.originalLink">
+          <img src="https://github.com/Technohubjk/Shivgif/raw/main/gif.gif" alt="👋 Hi there! I'm Shiv Kumar" title="👋 Hi there! I'm Shiv Kumar" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
         </a>
         <span class="AnimatedImagePlayer" data-target="animated-image.player" hidden="">
           <a data-target="animated-image.replacedLink" class="AnimatedImagePlayer-images" href="https://github.com/yashdesigns/yashdesigns/blob/main" target="_blank">
@@ -32,7 +32,7 @@
               <svg aria-hidden="true" focusable="false" class="octicon icon-play" width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
                 <path d="M4 13.5427V2.45734C4 1.82607 4.69692 1.4435 5.2295 1.78241L13.9394 7.32507C14.4334 7.63943 14.4334 8.36057 13.9394 8.67493L5.2295 14.2176C4.69692 14.5565 4 14.1739 4 13.5427Z"></path>
               </svg>
-              <svg aria-hidden ="true" focusable="false" class="octicon icon-pause" width="16" height="16" viewBox="0 0 16 16" xmlns="http://www.w3.org/2000/svg">
+              <svg aria-hidden="true" focusable="false" class="octicon icon-pause" width="16" height="16" viewBox="0 0 16 16" xmlns="http://www.w3.org/2000/svg">
                 <rect x="4" y="2" width="3" height="12" rx="1"></rect>
                 <rect x="9" y="2" width="3" height="12" rx="1"></rect>
               </svg>
@@ -55,10 +55,10 @@
 
 ## ✨ About Me
 Full Stack Developer | 25 years old  
-B.Tech in Computer Science & Engineering from *JK Institute of Applied Physics and Technology*  
+B.Tech in Electronics And Communication Engineering from *JK Institute of Applied Physics and Technology University Of Allahabad*  
 
-💡 Passionate about **System Design**, **Microservices**, and **Scalable Web Apps**  
-🎯 Problem Solver: 400+ DSA problems solved on LeetCode & GFG  
+💡 Passionate about **.NET Development**, Scalable **System Architecture**, Microservices, and **High-Performance Web Applications**.
+🎯 Problem Solver:DSA problems solved on LeetCode & GFG  
 🏅 Achieved **Rank #311** in LeetCode Weekly Contest (27k+ participants)  
 ⚙️ Advocate of **Test-Driven Development (TDD)** and **CI/CD Automation**
 
