@@ -58,9 +58,9 @@
 Loves Microservices, Scalable Systems & Clean Architecture 
 B.Tech in Electronics And Communication Engineering from *JK Institute of Applied Physics and Technology University Of Allahabad*  
 
-💡 Passionate about **.NET Development**, Scalable **System Architecture**, Microservices, and **High-Performance Web Applications**.
-🎯 Problem Solver | DSA Enthusiast | Solved Challenges on LeetCode & GFG
-🏅 Delivered High-Impact .NET Features | Improved System Performance & User Experience  
+💡 Passionate about **.NET Development**, Scalable **System Architecture**, Microservices, and **High-Performance Web Applications**.<br>
+🎯 Problem Solver | DSA Enthusiast | Solved Challenges on LeetCode & GFG.<br>
+🏅 Delivered High-Impact .NET Features | Improved System Performance & User Experience  <br>
 ⚙️ Advocate of **Test-Driven Development (TDD)** and **CI/CD Automation**
 
 ---
