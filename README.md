@@ -39,3 +39,20 @@ B.Tech in Computer Science & Engineering from *JK Institute of Applied Physics a
 ---
 
 ## 📜 Experience
+- 💼 **Software Engineer** - Societe Generale (Jan 2024 - Present)
+- 💼 **Software Engineer** - Cisco (Oct 2022 - Oct 2023)
+- 💼 **Software Engineer Trainee** - Cisco (Mar 2022 - Sept 2022)
+
+## 🛠️ Projects
+- 🚀 **Flyaway** (Flight Booking Portal)
+- 🌟 **Sporty Shoes** (E-commerce App)
+- 🛒 **Full-stack E-commerce App**
+
+## 🏆 Achievements & Interests
+- ✅ Qualified GATE 2022 exam in Computer Science.
+- ✅ Achieved a rank of 311 on LeetCode weekly contest out of 27,548 candidates.
+- ✅ Received a Recognition Letter from Cisco for outstanding contributions.
+
+## 👤 Connect With Me
+📫 You can reach me at [yashg7842@gmail.com](mailto:yashg7842@gmail.com). Follow my socials!
+
