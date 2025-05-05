@@ -20,7 +20,7 @@
           <img src="https://github.com/Technohubjk/Shivgif/raw/main/gif.gif" alt="👋 Hi there! I'm Shiv Kumar" title="👋 Hi there! I'm Shiv Kumar" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
         </a>
         <span class="AnimatedImagePlayer" data-target="animated-image.player" hidden="">
-          <a data-target="animated-image.replacedLink" class="AnimatedImagePlayer-images" href="https://github.com/yashdesigns/yashdesigns/blob/main" target="_blank">
+          <a data-target="animated-image.replacedLink" class="AnimatedImagePlayer-images>
             <span data-target="animated-image.imageContainer">
               <img data-target="animated-image.replacedImage" alt="👋 Hi there! I'm Yash" class="AnimatedImagePlayer-animatedImage" src="https://github.com/yashdesigns/yashdesigns/raw/main/Intro.gif" style="display: block; opacity: 1;">
               <canvas class="AnimatedImagePlayer-stillImage" aria-hidden="true" width="426" height="240"></canvas>
