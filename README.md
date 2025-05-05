@@ -18,14 +18,7 @@
       <animated-image data-catalyst="">
         <a  data-target="animated-image.originalLink">
           <img src="https://github.com/Technohubjk/Shivgif/raw/main/gif.gif" alt="👋 Hi there! I'm Shiv Kumar" title="👋 Hi there! I'm Shiv Kumar" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
-        </a>
-        <span class="AnimatedImagePlayer" data-target="animated-image.player" hidden="">
-          <a data-target="animated-image.replacedLink" class="AnimatedImagePlayer-images>
-            <span data-target="animated-image.imageContainer">
-              <img data-target="animated-image.replacedImage" alt="👋 Hi there! I'm Yash" class="AnimatedImagePlayer-animatedImage" src="https://github.com/yashdesigns/yashdesigns/raw/main/Intro.gif" style="display: block; opacity: 1;">
-              <canvas class="AnimatedImagePlayer-stillImage" aria-hidden="true" width="426" height="240"></canvas>
-            </span>
-          </a>
+        
           <button data-target="animated-image.imageButton" class="AnimatedImagePlayer-images" tabindex="-1" aria-label="Play 👋 Hi there! I'm Shiv kumar" hidden=""></button>
           <span class="AnimatedImagePlayer-controls" data-target="animated-image.controls" hidden="">
             <button data-target="animated-image.playButton" class="AnimatedImagePlayer-button" aria-label="Play 👋 Hi there! I'm Shiv Kumar">
