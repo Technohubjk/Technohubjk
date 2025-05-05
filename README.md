@@ -16,9 +16,9 @@
     <!-- Animated Image Section -->
     <p dir="auto">
       <animated-image data-catalyst="">
-        <a  data-target="animated-image.originalLink">
+        <a style="width=100px" data-target="animated-image.originalLink">
           <img src="https://github.com/Technohubjk/Shivgif/raw/main/gif.gif" alt="👋 Hi there! I'm Shiv Kumar" title="👋 Hi there! I'm Shiv Kumar" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
-        
+        </a>
        
 
 
